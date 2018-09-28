@@ -1,2 +1,3 @@
-"# HedgeWik" 
-"# HedgeWik" 
+## HedgeWik
+
+A clean interface for searching Wikipedia.
