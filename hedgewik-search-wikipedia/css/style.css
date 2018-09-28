@@ -1,0 +1,94 @@
+body{
+  text-align: center;
+  background-color: #F4F4F4;
+  font-family: 'Titillium Web';
+}
+.heading-title {
+  margin: 15% 0 3% 0;
+}
+.items{
+  background-color: white;
+  max-width: 1500px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  text-align: left;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
+#search {
+  width: 270px;
+  height: 34px;
+}
+input {
+  background-color: #373737;
+  color: white;
+  border: 2px #EFAFEA;
+  border-radius: 2.4px;
+  text-indent: 14px;
+  font-family: 'Titillium Web';
+  letter-spacing: 1px;
+}::-webkit-input-placeholder {
+  color: #F4F4F4;
+  font-family: monospace;
+  font-size: 14px;
+  letter-spacing: 2px;
+}
+
+button{
+  background-color: #373737;
+  color: #F4F4F4;
+  border: 2px #EFAFEA;
+  margin: 0 0 0 20px;
+  border-radius: 2.4px;
+  font-family: Monospace;
+  letter-spacing: 2px;
+  outline: 0;
+  width: 162px;
+  height: 34px;
+  letter-spacing: 2px;
+  font-size: 14px;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+h1 {
+  color: white;
+}
+.title {
+  color: #373737;
+  font-size: 58px;
+  font-family: 'lora';
+  letter-spacing: 8px;
+  margin-bottom: -5px;
+}
+
+.title-des {
+  font-size: 16px;
+  letter-spacing: 0.8px;
+  margin-bottom: -8px;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: bold;
+}
+.ui-autocomplete {
+    background: white;
+    list-style-type: none;
+    text-align: left;
+    width: 130px;
+    padding: 6px; 
+    margin: 0;
+    border: 5px #EFAFEA;
+    border-radius: 2.4px;
+}
+.ui-helper-hidden-accessible { 
+  display:none; 
+}
+.container{
+  margin-top: 20px;
+  width: 82%;
+  font-family: open sans;
+}
