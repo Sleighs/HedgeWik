@@ -2,7 +2,7 @@
 
 A clean interface for searching Wikipedia.
 
-HedgeWik was built for the FreeCodeCamp project 'Build a Wikipedia Viewer" which required using wik
+HedgeWik was built for the FreeCodeCamp project titled 'Build a Wikipedia Viewer" which required using wikipedia's api to search the website.
 
 Try it out here: https://sleighs.github.io/HedgeWik/
 
